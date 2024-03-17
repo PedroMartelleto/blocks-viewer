@@ -6,6 +6,7 @@
     "@apollo/client": "^3.9.6",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
+    "@kitware/vtk.js": "^29.9.0",
     "@mui/icons-material": "^5.15.12",
     "@mui/lab": "^5.0.0-alpha.167",
     "@mui/material": "^5.15.12",
@@ -20,7 +21,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "PORT=3003 react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
